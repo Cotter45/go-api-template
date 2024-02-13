@@ -21,4 +21,4 @@ build:
 run:
 	go run main.go
 
-.PHONY: format init dev test build run
+.PHONY: format init dev test coverage build run
